@@ -17,6 +17,7 @@ import com.taotao.service.ItemService;
 
 /**
  * 商品管理Service层
+ * 查询商品service的接口的实现类
  * @author HYChan
  * @date 2018-5-7
  * @version 1.0

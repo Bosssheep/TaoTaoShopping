@@ -1,5 +1,7 @@
 package com.taotao.service;
-
+/**
+ * 查询商品service的接口
+ */
 import com.taotao.common.pojo.EUDataGridResult;
 import com.taotao.pojo.TbItem;
 
